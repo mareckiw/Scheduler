@@ -1,0 +1,98 @@
+{
+    "Schedules": [
+        {
+            "Cost": 30,
+            "Classes": [
+                {
+                    "Lesson": "PSYCHOLOGIA/PEDAGOG                               ",
+                    "Start Slot": 18,
+                    "Children": [
+                        {
+                            "dbId": 7
+                        }
+                    ],
+                    "Teachers": [
+                        {
+                            "dbId": 1
+                        }
+                    ]
+                },
+                {
+                    "Lesson": "PSYCHOLOGIA/PEDAGOG                               ",
+                    "Start Slot": 23,
+                    "Children": [
+                        {
+                            "dbId": 33
+                        }
+                    ],
+                    "Teachers": [
+                        {
+                            "dbId": 1
+                        }
+                    ]
+                },
+                {
+                    "Lesson": "PSYCHOLOGIA/PEDAGOG                               ",
+                    "Start Slot": 20,
+                    "Children": [
+                        {
+                            "dbId": 35
+                        }
+                    ],
+                    "Teachers": [
+                        {
+                            "dbId": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Cost": 30,
+            "Classes": [
+                {
+                    "Lesson": "PSYCHOLOGIA/PEDAGOG                               ",
+                    "Start Slot": 18,
+                    "Children": [
+                        {
+                            "dbId": 7
+                        }
+                    ],
+                    "Teachers": [
+                        {
+                            "dbId": 1
+                        }
+                    ]
+                },
+                {
+                    "Lesson": "PSYCHOLOGIA/PEDAGOG                               ",
+                    "Start Slot": 155,
+                    "Children": [
+                        {
+                            "dbId": 33
+                        }
+                    ],
+                    "Teachers": [
+                        {
+                            "dbId": 1
+                        }
+                    ]
+                },
+                {
+                    "Lesson": "PSYCHOLOGIA/PEDAGOG                               ",
+                    "Start Slot": 20,
+                    "Children": [
+                        {
+                            "dbId": 35
+                        }
+                    ],
+                    "Teachers": [
+                        {
+                            "dbId": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

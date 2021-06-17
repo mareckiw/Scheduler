@@ -1,0 +1,10 @@
+{"name": "PSYCHOLOGIA/PEDAGOG",
+  "duration": 2,
+  "type":
+  {"programId": 1,
+    "name": "PFRON",
+    "dueDuration": 2},
+  "groupSize": 1,
+  "reqTeachers": "[\"2PSYCH\", \"8PED\", \"9PED\", \"3PSYCH\", \"1PSYCH\"]",
+  "optTeachers": "[]",
+  "differentSpec": false}
